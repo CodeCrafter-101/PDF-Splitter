@@ -51,7 +51,7 @@ split_pdf("sample.pdf")               # splits into separate pages
 split_pdf("sample.pdf", 2, 5)         # extracts pages 2 to 5
 ````
 
-## 📂 Output File Naming
+## Output File Naming
 - `page_1.pdf`, `page_2.pdf`, ... for full split
 - `pages_2_to_5.pdf` for range-based split
 
