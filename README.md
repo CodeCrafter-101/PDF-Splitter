@@ -22,12 +22,12 @@ pip install PyPDF2
 
 
 ## How It Works
-- 1. Load the PDF File
+- ### 1. Load the PDF File
    - Read the PDF using `PyPDF2.PdfReader`
-- 2. Choose Split Type
+- ### 2. Choose Split Type
    - Split all pages individually, or
    - Split by a specific range (e.g., pages 3–7)
-- 3. Save Output
+- ### 3. Save Output
    - Save the extracted pages as new `.pdf` files
 
 ## Steps to Run
