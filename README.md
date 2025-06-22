@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-PDF Splitter is a simple Python utility that splits a PDF file into multiple smaller PDF files — either page by page or based on a custom page range. This tool is useful when you want to extract individual pages or sections from a large PDF file for sharing, editing, or archiving.
+- PDF Splitter is a simple Python utility that splits a PDF file into multiple smaller PDF files — either page by page or based on a custom page range. This tool is useful when you want to extract individual pages or sections from a large PDF file for sharing, editing, or archiving.
 
 ## Features
 - Split every page into a separate PDF
